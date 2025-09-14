@@ -52,7 +52,8 @@ The content is completely unique each time, making every roll a new experience!
 - Framer Motion
 - Google Generative AI (Gemini)
 - Vite
-
+- Supabase
+  
 ## License
 
 MIT License
